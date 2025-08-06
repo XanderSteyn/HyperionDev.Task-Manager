@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Tasks/Task%20Manager.svg" alt="Task Manager - CLI Task Management Application"/><br>
+  <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Tasks/Task%20Manager.svg" width="100%" height="130px" alt="Task Manager - CLI Task Management Application"/><br>
 </h1>
 
 <img src="https://github.com/XanderSteyn/xandersteyn/blob/main/IGNORE/Headers/Repos/Features.svg" alt="Features" height="25px"/>
